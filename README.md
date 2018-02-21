@@ -1,3 +1,7 @@
 # Michael Hering
 # lab5
-This might cause a merge conflict
+
+This might resolve a merge conflict
+=======
+# Partner: Hayden Ingino
+
